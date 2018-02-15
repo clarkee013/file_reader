@@ -1,0 +1,25 @@
+{
+  "name": "file_reader",
+  "version": "1.0.0",
+  "description": "XML Parsing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkee013/file_reader.git"
+  },
+  "author": "Davie C",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clarkee013/file_reader/issues"
+  },
+  "homepage": "https://github.com/clarkee013/file_reader#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "webpack": "^3.11.0"
+  }
+}
